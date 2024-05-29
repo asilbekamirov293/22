@@ -1,0 +1,44 @@
+.text {
+    background-color: white;
+    position: relative;
+    top: -395px;
+    left: 425px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    width: 350px;
+    box-shadow: 0px 0px 1px black;
+    border: solid black 1px;
+}
+.box {
+    background-color: silver;
+    width: 800px;
+    height: 403px;
+    position: relative;
+    top: 500px;
+    left: 1000px;
+    border: solid black 1px;
+}
+h5 {
+    position: relative;
+    left: 110px;
+    top: -50px;
+}
+.img {
+    position: relative;
+}
+h1 {
+    position: relative;
+    left: 135px;
+    top: -20px;
+}
+button {
+    background-color: blue;
+    border-radius: 3px;
+    color: white;
+    position: relative;
+    left: 111px;
+    padding: 5px;
+}
+body {
+    background-color: whitesmoke;
+}
